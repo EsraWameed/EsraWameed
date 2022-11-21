@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraWameed&layout=compact)](https://github.com/EsraWameed/github-readme-stats)
 <h3 align="center"> Welcome! Click to visit my portfolio</h3>
 <p align="center"><a href="https://esrawameed.github.io/reactorApp/"><img height="200px" alt="Welcome, Click to see Portfolio!" src="./images/codeGirl-modified.png" /></a></p>
 
